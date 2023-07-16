@@ -3,7 +3,7 @@
 - (') - In progress and works very well
 - (^) - Works well, I may or may not update it.
 - ("") Quite buggy, not planning on fixing
-- (*) - Incomplete, works
+- (*) - Incomplete, but works
 - (~) - Does not work <br>
   (There will be duplicated items)
 ## Currently
