@@ -38,7 +38,7 @@
 ## All items
 - [https://devforum.roblox.com/t/how-to-make-extremely-clean-ui-while-keeping-good-ux/2438099?u=dev98799] <br>
   A tutorial on good UI design. (^)
-- [https://www.roblox.com/games/12085988855/combat]( <br>
+- [https://www.roblox.com/games/12085988855/combat] <br>
   This is a combat system I made in 2 days (^)
 - [https://devforum.roblox.com/t/gui-menu-system-any-advice/1657597] <br>
   A UI menu system I made (^)
