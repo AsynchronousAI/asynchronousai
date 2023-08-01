@@ -8,7 +8,7 @@
   (There will be duplicated items)
 ## Currently
 - Developer for Circus Trip 2
-- Working on roblox-pyc
+- Working on roblox-pyc & Luax
 
 ## My best works!
 - [https://github.com/AsynchronousAI/roblox-pyc] [https://robloxpy.vercel.app] [https://robloxpyc.gitbook.io/roblox-pyc/] <br>
@@ -21,10 +21,11 @@
   Raycast vehicle system (^)
 - [https://www.roblox.com/games/10950266679/Avatar-Demo] <br>
    An in-game avatar editor. (^)
+- [https://website-8ehi39aty-asynchronousai.vercel.app] PC and Keyboard building website I made with my friends.
 
 ## Games
 - [https://www.roblox.com/games/12101165625/Dev98799s-Place-Number-5] <br>
-  Time pausing system, also works with multiplayer. Use the key R to pause time and release to unpause.
+  A time pausing system also works with multiplayer. Use the key R to pause time and release to unpause.
 - [https://www.roblox.com/games/9333015136/Trivia] <br>
   A ui based trivia game inspired by Kahoot! (^)
 - [https://www.roblox.com/games/9734780826/Speed-Platformer] <br>
@@ -49,8 +50,8 @@
 - [https://github.com/AsynchronousAI/clay] [https://clay-code.vercel.app/] <br>
   A universal bridge between 20+ languages. The website was made with React and hosted on Vercel. (*)
 - [https://www.roblox.com/games/12101165625/Dev98799s-Place-Number-5] <br>
-  Time pausing system, also works with multiplayer. Use the key R to pause time and release to unpause.
+  A time pausing system also works with multiplayer. Use the key R to pause time and release to unpause.
 - [https://github.com/AsynchronousAI/ro-code] <br>
-  Replit-based VsCode syncing utility made for personal use, it broke over time so I open-sourced it. (~)
+  Replit-based VsCode syncing utility made for personal use, but it broke over time, so I open-sourced it. (~)
 ***
 
