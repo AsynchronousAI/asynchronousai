@@ -12,8 +12,8 @@
 
 ## Currently working on 🕐
 
-<td>Developer for Circus Trip 2
-<td>Working on roblox-pyc & Luax
+- Developer for Circus Trip 2
+- Working on roblox-pyc & Luax
 
 ## My best works! 🥳
 
