@@ -13,7 +13,7 @@
 ## Currently working on 🕐
 
 - Developer for Circus Trip 2
-- Working on roblox-pyc & Luax
+- Working on roblox-pyc & Cobalt
 
 ## My best works! 🥳
 
