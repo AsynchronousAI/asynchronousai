@@ -52,8 +52,6 @@
    An in-game avatar editor. (^) </td>
 <td><a href="https://www.roblox.com/games/12590841538" target="_blank"><b>Roblox Game</b></a> <br>
   Raycast vehicle system (^) </td>
-<td><a href="https://www.roblox.com/games/12085988855/combat" target="_blank"><b>Roblox Game</b></a> <br>
-  This is a combat system I made in 2 days (^) </td>
    </tr>
   </table>
   
