@@ -12,15 +12,15 @@
 
 ## Currently working on 🕐
 
-- Developer for Circus Trip 2
+- Contributor for Circus Trip 2 (not a developer, just often contributes)
 - Roblox Compiler Collection
 
 ## My best works! 🥳
 
 <table border="0">
  <tr>
-    <td><a href="https://github.com/AsynchronousAI/roblox-pyc" target="_blank"><b>Github</b></a> <a href="https://robloxpy.vercel.app" target="_blank"><b>Website</b></a> <a href="https://robloxpyc.gitbook.io/roblox-pyc/" target="_blank"><b>Docs</b></a> <br>
-  Python, C, C++, Lunar compiler to Luau. Works fully, has 15+ examples on its GitHub, I linked the github (py), landing page (ts), and docs (md) in that order. (')</td>
+    <td><a href="https://github.com/roblox-compilers" target="_blank"><b>Github</b></a> <br>
+  Python, C, C++, C#, Kotlin, and Assembly to Luau compiler with a Toolchain. (')</td>
 
 <td><a href="https://devforum.roblox.com/t/videoservice-v202-closed-easy-to-use-custom-video-player/1775696" target="_blank"><b>Devforum</b></a> <br>
   Video rendering inside of Roblox (^) </td> <td><a href="https://www.roblox.com/games/9333015136/Trivia" target="_blank"><b>Roblox Game</b></a> <br>
