@@ -12,7 +12,7 @@
 
 ## Currently working on 🕐
 
-- Contributor for Circus Trip 2 (not a developer, just often contributes)
+- Developer for Circus Trip 2 (i now just do little contributions often)
 - Roblox Compiler Collection
 
 ## My best works! 🥳
