@@ -15,7 +15,9 @@
 
 > ## My best works
 > ### <a href="https://github.com/roblox-compilers" target="_blank"><b>Link</b></a> <br>
-> Python, C, C++, C#, Kotlin, and Assembly to Luau compiler with a Toolchain. 
+> Python, C, C++, C#, Kotlin, and Assembly to Luau compiler with a Toolchain.
+> ### <a href="https://www.roblox.com/games/13644494592/duck-game" target="_blank"><b>Link</b></a> <br>
+> Quick game I whipped up in a day, good example on what stuff I can make.
 > ### <a href="https://github.com/roblox-compilers" target="_blank"><b>Link</b></a> <br>
 > Circus Trip 2 
 > ### <a href="https://devforum.roblox.com/t/videoservice-v202-closed-easy-to-use-custom-video-player/1775696" target="_blank"><b>Link</b></a> <br>
